@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply bg-cyber-900 text-slate-200 antialiased font-sans;
+    }
+}
+
+.terminal-input {
+    @apply bg-cyber-800 text-green-400 font-mono border border-gray-700 focus:border-cyber-primary focus:ring-1 focus:ring-cyber-primary transition-all duration-300;
+}
+
+.cyber-button {
+    @apply bg-cyber-primary text-cyber-900 font-bold uppercase tracking-wider hover:bg-green-400 hover:shadow-neon-green transition-all duration-300 transform hover:-translate-y-0.5;
+}
+
+.cyber-card {
+    @apply bg-cyber-800 border border-gray-800 shadow-xl rounded-xl;
+}

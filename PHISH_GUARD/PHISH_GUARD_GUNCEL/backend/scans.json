@@ -1,0 +1,1200 @@
+[
+    {
+        "timestamp": "2025-12-12T22:21:22.550768",
+        "type": "email",
+        "content": "jswjbw\n",
+        "score": 28,
+        "risk_level": "Low"
+    },
+    {
+        "timestamp": "2025-12-12T22:24:42.241713",
+        "type": "url",
+        "content": "ghjgcgc",
+        "score": 16,
+        "risk_level": "Low"
+    },
+    {
+        "timestamp": "2025-12-12T22:24:49.549778",
+        "type": "email",
+        "content": "gvcvg \n",
+        "score": 49,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-12T22:48:55.069887",
+        "type": "email",
+        "content": "fjkfhjsdfh",
+        "score": 12,
+        "risk_level": "Low"
+    },
+    {
+        "timestamp": "2025-12-12T22:49:05.383747",
+        "type": "url",
+        "content": "jdhsfgjhgfdsj",
+        "score": 4,
+        "risk_level": "Low"
+    },
+    {
+        "timestamp": "2025-12-12T22:53:39.518059",
+        "type": "email",
+        "content": "selam cnm\n",
+        "score": 59,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-12T22:53:46.509174",
+        "type": "url",
+        "content": "hryyryedjbed",
+        "score": 4,
+        "risk_level": "Low"
+    },
+    {
+        "timestamp": "2025-12-14T17:30:25.837727",
+        "type": "email",
+        "content": "Kazand\u0131n\u0131z! Hemen linke t\u0131klay\u0131n!",
+        "score": 92,
+        "risk_level": "High"
+    },
+    {
+        "timestamp": "2025-12-14T17:31:34.905909",
+        "type": "email",
+        "content": "Merhaba, yar\u0131n ders 10:00'da ba\u015fl\u0131yor.",
+        "score": 3,
+        "risk_level": "Low"
+    },
+    {
+        "timestamp": "2025-12-14T17:32:18.471415",
+        "type": "email",
+        "content": "Hesab\u0131n\u0131z ask\u0131ya al\u0131nd\u0131. Do\u011frulamak i\u00e7in ba\u011flant\u0131y...",
+        "score": 89,
+        "risk_level": "High"
+    },
+    {
+        "timestamp": "2025-12-14T19:12:09.620046",
+        "type": "email",
+        "content": "Hesab\u0131n\u0131z ask\u0131ya al\u0131nd\u0131. Do\u011frulamak i\u00e7in linke t\u0131k...",
+        "score": 91,
+        "risk_level": "High"
+    },
+    {
+        "timestamp": "2025-12-14T22:17:39.005600",
+        "type": "email",
+        "content": "bu linke t\u0131kla",
+        "score": 27,
+        "risk_level": "Low"
+    },
+    {
+        "timestamp": "2025-12-14T22:17:46.965656",
+        "type": "email",
+        "content": "kazanmak i\u00e7in bu linke t\u0131kla",
+        "score": 59,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-14T22:17:54.908909",
+        "type": "email",
+        "content": "kazanmak i\u00e7in bu linke t\u0131kla",
+        "score": 59,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-14T22:17:55.888186",
+        "type": "email",
+        "content": "kazanmak i\u00e7in bu linke t\u0131kla",
+        "score": 59,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-14T22:17:56.487189",
+        "type": "email",
+        "content": "kazanmak i\u00e7in bu linke t\u0131kla",
+        "score": 59,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-14T22:18:08.711902",
+        "type": "email",
+        "content": "kazanmak i\u00e7in bu linke t\u0131kla",
+        "score": 59,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-14T22:18:31.476301",
+        "type": "email",
+        "content": "kazanmak i\u00e7in bu linke t\u0131kla",
+        "score": 59,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-14T22:18:46.037719",
+        "type": "email",
+        "content": "3 saniye premium ol",
+        "score": 47,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-14T22:19:02.139493",
+        "type": "email",
+        "content": "3 saniye premium ol",
+        "score": 47,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-14T22:19:22.896858",
+        "type": "email",
+        "content": "harika bir \u00f6d\u00fcll\u00fcm var linke t\u0131kla",
+        "score": 33,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-14T22:19:23.683647",
+        "type": "email",
+        "content": "harika bir \u00f6d\u00fcll\u00fcm var linke t\u0131kla",
+        "score": 33,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-14T22:19:37.738007",
+        "type": "email",
+        "content": "harika bir \u00f6d\u00fcll\u00fcm var linke t\u0131kla",
+        "score": 33,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-14T22:26:11.712145",
+        "type": "url",
+        "content": "https://www.google.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-14T22:26:22.186392",
+        "type": "url",
+        "content": "https://www.google.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-14T22:29:03.230447",
+        "type": "url",
+        "content": "br-icloud.com.br",
+        "score": 95,
+        "risk_level": "High",
+        "details": "\u26a0\ufe0f YAPAY ZEKA UYARISI: Oltalama Sitesi!"
+    },
+    {
+        "timestamp": "2025-12-14T22:29:32.250771",
+        "type": "url",
+        "content": "br-icloud.com.br",
+        "score": 95,
+        "risk_level": "High",
+        "details": "\u26a0\ufe0f YAPAY ZEKA UYARISI: Oltalama Sitesi!"
+    },
+    {
+        "timestamp": "2025-12-14T22:29:34.681192",
+        "type": "url",
+        "content": "br-icloud.com.br",
+        "score": 95,
+        "risk_level": "High",
+        "details": "\u26a0\ufe0f YAPAY ZEKA UYARISI: Oltalama Sitesi!"
+    },
+    {
+        "timestamp": "2025-12-14T22:29:41.895863",
+        "type": "email",
+        "content": "br-icloud.com.br",
+        "score": 27,
+        "risk_level": "Low"
+    },
+    {
+        "timestamp": "2025-12-14T22:30:38.835540",
+        "type": "url",
+        "content": "br-icloud.com.br",
+        "score": 95,
+        "risk_level": "High",
+        "details": "\u26a0\ufe0f YAPAY ZEKA UYARISI: Oltalama Sitesi!"
+    },
+    {
+        "timestamp": "2025-12-14T22:30:57.595944",
+        "type": "url",
+        "content": "br-icloud.com.br",
+        "score": 95,
+        "risk_level": "High",
+        "details": "\u26a0\ufe0f YAPAY ZEKA UYARISI: Oltalama Sitesi!"
+    },
+    {
+        "timestamp": "2025-12-14T22:31:22.128125",
+        "type": "url",
+        "content": "br-icloud.com.br",
+        "score": 95,
+        "risk_level": "High",
+        "details": "\u26a0\ufe0f YAPAY ZEKA UYARISI: Oltalama Sitesi!"
+    },
+    {
+        "timestamp": "2025-12-14T22:31:23.445689",
+        "type": "url",
+        "content": "br-icloud.com.br",
+        "score": 95,
+        "risk_level": "High",
+        "details": "\u26a0\ufe0f YAPAY ZEKA UYARISI: Oltalama Sitesi!"
+    },
+    {
+        "timestamp": "2025-12-14T22:31:31.447175",
+        "type": "url",
+        "content": "br-icloud.com.br",
+        "score": 95,
+        "risk_level": "High",
+        "details": "\u26a0\ufe0f YAPAY ZEKA UYARISI: Oltalama Sitesi!"
+    },
+    {
+        "timestamp": "2025-12-14T22:35:43.430328",
+        "type": "url",
+        "content": "https://www.turkiye.gov.tr/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-14T22:35:57.538546",
+        "type": "url",
+        "content": "https://www.turkiye.gov.tr/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-14T22:37:21.158181",
+        "type": "url",
+        "content": "https://www.turkiye.gov.tr/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-14T22:39:14.105147",
+        "type": "url",
+        "content": "https://www.turkiye.gov.tr/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-14T22:46:36.527606",
+        "type": "url",
+        "content": "https://www.turkiye.gov.tr/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-14T22:47:23.467061",
+        "type": "url",
+        "content": "https://www.turkiye.gov.tr/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-14T22:54:16.390973",
+        "type": "email",
+        "content": "harika bir \u00f6d\u00fcl kazand\u0131n\u0131z \u00f6d\u00fcl\u00fcn\u00fcze ula\u015fmak i\u00e7in ...",
+        "score": 84,
+        "risk_level": "High"
+    },
+    {
+        "timestamp": "2025-12-14T22:54:23.034294",
+        "type": "email",
+        "content": "harika bir \u00f6d\u00fcl kazand\u0131n\u0131z \u00f6d\u00fcl\u00fcn\u00fcze ula\u015fmak i\u00e7in ...",
+        "score": 84,
+        "risk_level": "High"
+    },
+    {
+        "timestamp": "2025-12-14T22:54:28.558937",
+        "type": "email",
+        "content": "harika bir \u00f6d\u00fcl kazand\u0131n\u0131z \u00f6d\u00fcl\u00fcn\u00fcze ula\u015fmak i\u00e7in ...",
+        "score": 84,
+        "risk_level": "High"
+    },
+    {
+        "timestamp": "2025-12-14T23:48:03.227115",
+        "type": "url",
+        "content": "https://www.google.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-14T23:48:12.832430",
+        "type": "url",
+        "content": "https://www.googleeee.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-14T23:48:13.466919",
+        "type": "url",
+        "content": "https://www.googleeee.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-14T23:48:30.564712",
+        "type": "url",
+        "content": "https://www.turkiye.gov.tr/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-14T23:48:42.137675",
+        "type": "url",
+        "content": "https://www.tukiye.gov.tr/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:26:50.194924",
+        "type": "url",
+        "content": "https://www.tukiye.gov.tr/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:26:55.402072",
+        "type": "email",
+        "content": "naber ",
+        "score": 4,
+        "risk_level": "Low"
+    },
+    {
+        "timestamp": "2025-12-15T00:26:58.521124",
+        "type": "email",
+        "content": "naber selam",
+        "score": 3,
+        "risk_level": "Low"
+    },
+    {
+        "timestamp": "2025-12-15T00:27:04.721291",
+        "type": "email",
+        "content": "naber acil t\u0131kla ",
+        "score": 26,
+        "risk_level": "Low"
+    },
+    {
+        "timestamp": "2025-12-15T00:27:10.683971",
+        "type": "email",
+        "content": "naber acil t\u0131kla bedava hediye",
+        "score": 79,
+        "risk_level": "High"
+    },
+    {
+        "timestamp": "2025-12-15T00:30:04.599909",
+        "type": "url",
+        "content": "https://www.youtube.com/watch?v=9B33MeXdtec&t=665s",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:30:06.797474",
+        "type": "url",
+        "content": "https://www.youtube.com/watch?v=9B33MeXdtec&t=665s",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:30:07.116314",
+        "type": "url",
+        "content": "https://www.youtube.com/watch?v=9B33MeXdtec&t=665s",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:30:07.328098",
+        "type": "url",
+        "content": "https://www.youtube.com/watch?v=9B33MeXdtec&t=665s",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:30:17.499057",
+        "type": "url",
+        "content": "https://www.google.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:30:18.040209",
+        "type": "url",
+        "content": "https://www.google.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:30:18.898379",
+        "type": "url",
+        "content": "https://www.google.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:30:19.084859",
+        "type": "url",
+        "content": "https://www.google.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:30:24.311435",
+        "type": "url",
+        "content": "https://www.google.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:30:25.283712",
+        "type": "url",
+        "content": "https://www.google.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:30:25.463301",
+        "type": "url",
+        "content": "https://www.google.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:30:25.669363",
+        "type": "url",
+        "content": "https://www.google.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:30:25.883538",
+        "type": "url",
+        "content": "https://www.google.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:30:33.491296",
+        "type": "url",
+        "content": "https://www.googleeeeei.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:30:34.019383",
+        "type": "url",
+        "content": "https://www.googleeeeei.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:30:34.235006",
+        "type": "url",
+        "content": "https://www.googleeeeei.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:30:34.786165",
+        "type": "url",
+        "content": "https://www.googleeeeei.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:30:34.985479",
+        "type": "url",
+        "content": "https://www.googleeeeei.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:30:48.884394",
+        "type": "url",
+        "content": "https://www.google.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:30:57.652385",
+        "type": "url",
+        "content": "https://www.goole.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:30:58.100214",
+        "type": "url",
+        "content": "https://www.goole.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:30:58.283113",
+        "type": "url",
+        "content": "https://www.goole.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:36:37.625286",
+        "type": "url",
+        "content": "https://www.google.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:36:41.506071",
+        "type": "url",
+        "content": "https://www.googleee.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:36:42.001404",
+        "type": "url",
+        "content": "https://www.googleee.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:36:42.199737",
+        "type": "url",
+        "content": "https://www.googleee.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:36:47.415151",
+        "type": "url",
+        "content": "https://www.googleee.cooom/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:36:47.801938",
+        "type": "url",
+        "content": "https://www.googleee.cooom/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:36:48.001830",
+        "type": "url",
+        "content": "https://www.googleee.cooom/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:38:42.784865",
+        "type": "url",
+        "content": "http://secure-login-update-bank-account.com",
+        "score": 95,
+        "risk_level": "High",
+        "details": "\u26a0\ufe0f \u015e\u00dcPHEL\u0130 \u0130FADE TESP\u0130T\u0130: Domain 'login' kelimesini i\u00e7eriyor."
+    },
+    {
+        "timestamp": "2025-12-15T00:38:50.903259",
+        "type": "url",
+        "content": "https://www.google.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:38:58.201491",
+        "type": "url",
+        "content": "https://www.google.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:39:05.991720",
+        "type": "url",
+        "content": "http://secure-login-update-bank-account.com",
+        "score": 95,
+        "risk_level": "High",
+        "details": "\u26a0\ufe0f \u015e\u00dcPHEL\u0130 \u0130FADE TESP\u0130T\u0130: Domain 'login' kelimesini i\u00e7eriyor."
+    },
+    {
+        "timestamp": "2025-12-15T00:42:43.598385",
+        "type": "url",
+        "content": "https://www.google.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:42:59.270365",
+        "type": "url",
+        "content": "http://www.firsat.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:42:59.767027",
+        "type": "url",
+        "content": "http://www.firsat.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:42:59.966035",
+        "type": "url",
+        "content": "http://www.firsat.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:43:00.665979",
+        "type": "url",
+        "content": "http://www.firsat.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:43:01.020676",
+        "type": "url",
+        "content": "http://www.firsat.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:43:01.219686",
+        "type": "url",
+        "content": "http://www.firsat.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:43:59.050589",
+        "type": "url",
+        "content": "https://www.google.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:44:03.511369",
+        "type": "url",
+        "content": "https://www.goole.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:44:04.099081",
+        "type": "url",
+        "content": "https://www.goole.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:44:04.298537",
+        "type": "url",
+        "content": "https://www.goole.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:44:22.176426",
+        "type": "url",
+        "content": "https://www.youtube.com/watch?v=9B33MeXdtec&t=665s",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:44:22.867678",
+        "type": "url",
+        "content": "https://www.youtube.com/watch?v=9B33MeXdtec&t=665s",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:44:28.340519",
+        "type": "url",
+        "content": "http://www.youtube.com/watch?v=9B33MeXdtec&t=665s",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:44:28.831883",
+        "type": "url",
+        "content": "http://www.youtube.com/watch?v=9B33MeXdtec&t=665s",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:44:29.033483",
+        "type": "url",
+        "content": "http://www.youtube.com/watch?v=9B33MeXdtec&t=665s",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:44:29.616810",
+        "type": "url",
+        "content": "http://www.youtube.com/watch?v=9B33MeXdtec&t=665s",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:44:57.002908",
+        "type": "url",
+        "content": "https://www.google.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:45:01.933328",
+        "type": "url",
+        "content": "https://www.goosgle.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:45:02.417600",
+        "type": "url",
+        "content": "https://www.goosgle.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:45:02.600601",
+        "type": "url",
+        "content": "https://www.goosgle.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:50:22.009009",
+        "type": "url",
+        "content": "https://www.google.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:50:25.371226",
+        "type": "url",
+        "content": "https://www.goossgle.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:50:26.032666",
+        "type": "url",
+        "content": "https://www.goossgle.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:50:28.580433",
+        "type": "url",
+        "content": "https://wwwdd.goossgle.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:50:29.062499",
+        "type": "url",
+        "content": "https://wwwdd.goossgle.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:50:29.227925",
+        "type": "url",
+        "content": "https://wwwdd.goossgle.com/",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE"
+    },
+    {
+        "timestamp": "2025-12-15T00:54:43.824701",
+        "type": "url",
+        "content": "https://goossgle.com",
+        "score": 95,
+        "risk_level": "High",
+        "details": "\u26a0\ufe0f K\u0130ML\u0130K AVI \u015e\u00dcPHES\u0130: Bu site 'google.com' adresini taklit ediyor olabilir! (goossgle.com)"
+    },
+    {
+        "timestamp": "2025-12-15T00:54:53.566052",
+        "type": "url",
+        "content": "https://google.com",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE (Do\u011frulanm\u0131\u015f Kaynak)"
+    },
+    {
+        "timestamp": "2025-12-15T00:56:16.898850",
+        "type": "email",
+        "content": "merhabalar",
+        "score": 0,
+        "risk_level": "Low"
+    },
+    {
+        "timestamp": "2025-12-15T00:56:43.783238",
+        "type": "email",
+        "content": "merhabalar iphone 11 kazand\u0131n\u0131z bu linke t\u0131klayara...",
+        "score": 96,
+        "risk_level": "High"
+    },
+    {
+        "timestamp": "2025-12-15T00:56:50.644305",
+        "type": "url",
+        "content": "https://google.com",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE (Do\u011frulanm\u0131\u015f Kaynak)"
+    },
+    {
+        "timestamp": "2025-12-15T00:56:57.632812",
+        "type": "url",
+        "content": "https://gooosgle.com",
+        "score": 95,
+        "risk_level": "High",
+        "details": "\u26a0\ufe0f K\u0130ML\u0130K AVI \u015e\u00dcPHES\u0130: Bu site 'google.com' adresini taklit ediyor olabilir! (gooosgle.com)"
+    },
+    {
+        "timestamp": "2025-12-15T00:57:03.977773",
+        "type": "url",
+        "content": "https://google.com",
+        "score": 10,
+        "risk_level": "Low",
+        "details": "\u2705 G\u00dcVENL\u0130 S\u0130TE (Do\u011frulanm\u0131\u015f Kaynak)"
+    },
+    {
+        "timestamp": "2025-12-15T01:19:44.545453",
+        "type": "email",
+        "content": "kazanmak i\u00e7in linke t\u0131kla",
+        "score": 61,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-15T01:20:09.876957",
+        "type": "email",
+        "content": "sen de bu f\u0131rsat\u0131 ka\u00e7\u0131rmak istemiyorsan linke t\u0131kl...",
+        "score": 97,
+        "risk_level": "High"
+    },
+    {
+        "timestamp": "2025-12-15T01:20:13.119030",
+        "type": "email",
+        "content": "sen de bu f\u0131rsat\u0131 ka\u00e7\u0131rmak istemiyorsan linke t\u0131kl...",
+        "score": 97,
+        "risk_level": "High"
+    },
+    {
+        "timestamp": "2025-12-15T01:20:14.542469",
+        "type": "email",
+        "content": "sen de bu f\u0131rsat\u0131 ka\u00e7\u0131rmak istemiyorsan linke t\u0131kl...",
+        "score": 97,
+        "risk_level": "High"
+    },
+    {
+        "timestamp": "2025-12-15T01:20:20.503874",
+        "type": "email",
+        "content": "sen de bu f\u0131rsat\u0131 ka\u00e7\u0131rmak istemiyorsan linke t\u0131kl...",
+        "score": 97,
+        "risk_level": "High"
+    },
+    {
+        "timestamp": "2025-12-15T01:20:45.387662",
+        "type": "email",
+        "content": "Tebrikler 50.000 TL kazand\u0131n\u0131z \u00f6d\u00fcl\u00fcn\u00fcz\u00fc almak i\u00e7i...",
+        "score": 97,
+        "risk_level": "High"
+    },
+    {
+        "timestamp": "2025-12-15T01:20:46.714304",
+        "type": "email",
+        "content": "Tebrikler 50.000 TL kazand\u0131n\u0131z \u00f6d\u00fcl\u00fcn\u00fcz\u00fc almak i\u00e7i...",
+        "score": 97,
+        "risk_level": "High"
+    },
+    {
+        "timestamp": "2025-12-15T01:20:48.801642",
+        "type": "email",
+        "content": "Tebrikler 50.000 TL kazand\u0131n\u0131z \u00f6d\u00fcl\u00fcn\u00fcz\u00fc almak i\u00e7i...",
+        "score": 97,
+        "risk_level": "High"
+    },
+    {
+        "timestamp": "2025-12-15T01:20:49.084301",
+        "type": "email",
+        "content": "Tebrikler 50.000 TL kazand\u0131n\u0131z \u00f6d\u00fcl\u00fcn\u00fcz\u00fc almak i\u00e7i...",
+        "score": 97,
+        "risk_level": "High"
+    },
+    {
+        "timestamp": "2025-12-15T01:20:49.280310",
+        "type": "email",
+        "content": "Tebrikler 50.000 TL kazand\u0131n\u0131z \u00f6d\u00fcl\u00fcn\u00fcz\u00fc almak i\u00e7i...",
+        "score": 97,
+        "risk_level": "High"
+    },
+    {
+        "timestamp": "2025-12-15T01:20:49.956889",
+        "type": "email",
+        "content": "Tebrikler 50.000 TL kazand\u0131n\u0131z \u00f6d\u00fcl\u00fcn\u00fcz\u00fc almak i\u00e7i...",
+        "score": 97,
+        "risk_level": "High"
+    },
+    {
+        "timestamp": "2025-12-15T01:20:50.170516",
+        "type": "email",
+        "content": "Tebrikler 50.000 TL kazand\u0131n\u0131z \u00f6d\u00fcl\u00fcn\u00fcz\u00fc almak i\u00e7i...",
+        "score": 97,
+        "risk_level": "High"
+    },
+    {
+        "timestamp": "2025-12-15T01:21:15.065729",
+        "type": "email",
+        "content": "Tebrikler 50.000 TL kazand\u0131n\u0131z \u00f6d\u00fcl\u00fcn\u00fcz\u00fc almak i\u00e7i...",
+        "score": 97,
+        "risk_level": "High"
+    },
+    {
+        "timestamp": "2025-12-15T01:21:18.329434",
+        "type": "email",
+        "content": "",
+        "score": 6,
+        "risk_level": "Low"
+    },
+    {
+        "timestamp": "2025-12-15T01:21:21.119989",
+        "type": "email",
+        "content": "Tebrikler 50.000 TL kazand\u0131n\u0131z \u00f6d\u00fcl\u00fcn\u00fcz\u00fc almak i\u00e7i...",
+        "score": 97,
+        "risk_level": "High"
+    },
+    {
+        "timestamp": "2025-12-15T01:24:04.064828",
+        "type": "email",
+        "content": "sen de para kazanmak istersen linke t\u0131kla",
+        "score": 70,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-15T01:24:04.490495",
+        "type": "email",
+        "content": "sen de para kazanmak istersen linke t\u0131kla",
+        "score": 70,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-15T01:24:05.542192",
+        "type": "email",
+        "content": "sen de para kazanmak istersen linke t\u0131kla",
+        "score": 70,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-15T01:24:06.105154",
+        "type": "email",
+        "content": "sen de para kazanmak istersen linke t\u0131kla",
+        "score": 70,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-15T01:24:14.150910",
+        "type": "email",
+        "content": "sen de para kazanmak istersen linke t\u0131kla",
+        "score": 70,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-15T01:27:36.613511",
+        "type": "email",
+        "content": "sen de para kazanmak istersen linke t\u0131kla",
+        "score": 70,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-15T01:27:36.884703",
+        "type": "email",
+        "content": "sen de para kazanmak istersen linke t\u0131kla",
+        "score": 70,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-15T01:27:37.350085",
+        "type": "email",
+        "content": "sen de para kazanmak istersen linke t\u0131kla",
+        "score": 70,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-15T01:27:45.330754",
+        "type": "email",
+        "content": "sen de para kazanmak istersen linke t\u0131kla",
+        "score": 70,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-15T01:32:14.594764",
+        "type": "email",
+        "content": "para kazanmak i\u00e7in linke gel",
+        "score": 54,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-15T01:32:16.980458",
+        "type": "email",
+        "content": "para kazanmak i\u00e7in linke gel",
+        "score": 54,
+        "risk_level": "Medium"
+    },
+    {
+        "timestamp": "2025-12-15T01:32:47.260030",
+        "type": "email",
+        "content": "merhaba ben bankadan mail at\u0131yorum para kazanmak i...",
+        "score": 14,
+        "risk_level": "Low"
+    },
+    {
+        "timestamp": "2025-12-15T01:32:48.243484",
+        "type": "email",
+        "content": "merhaba ben bankadan mail at\u0131yorum para kazanmak i...",
+        "score": 14,
+        "risk_level": "Low"
+    },
+    {
+        "timestamp": "2025-12-15T01:33:04.048884",
+        "type": "email",
+        "content": "sen de aram\u0131za kat\u0131lmak istersen linke t\u0131kla",
+        "score": 20,
+        "risk_level": "Low"
+    },
+    {
+        "timestamp": "2025-12-15T01:33:05.174231",
+        "type": "email",
+        "content": "sen de aram\u0131za kat\u0131lmak istersen linke t\u0131kla",
+        "score": 20,
+        "risk_level": "Low"
+    },
+    {
+        "timestamp": "2025-12-15T01:37:06.754453",
+        "type": "url",
+        "content": "https://google.com",
+        "score": 50,
+        "risk_level": "Error",
+        "details": "Analysis completed"
+    },
+    {
+        "timestamp": "2025-12-15T01:37:11.216277",
+        "type": "url",
+        "content": "https://google.con",
+        "score": 50,
+        "risk_level": "Error",
+        "details": "Analysis completed"
+    },
+    {
+        "timestamp": "2025-12-15T01:37:30.256840",
+        "type": "url",
+        "content": "https://googe.con",
+        "score": 50,
+        "risk_level": "Error",
+        "details": "Analysis completed"
+    },
+    {
+        "timestamp": "2025-12-15T01:37:35.320561",
+        "type": "url",
+        "content": "https://googe.con",
+        "score": 50,
+        "risk_level": "Error",
+        "details": "Analysis completed"
+    },
+    {
+        "timestamp": "2025-12-15T01:37:53.707507",
+        "type": "url",
+        "content": "http://payple.gt",
+        "score": 50,
+        "risk_level": "Error",
+        "details": "Analysis completed"
+    },
+    {
+        "timestamp": "2025-12-15T01:37:54.894823",
+        "type": "url",
+        "content": "http://payple.gt",
+        "score": 50,
+        "risk_level": "Error",
+        "details": "Analysis completed"
+    },
+    {
+        "timestamp": "2025-12-15T02:01:45.830408",
+        "type": "url",
+        "content": "http://secure-login.paypal-update.com@192.168.1.1/login",
+        "score": 100,
+        "label": "malicious",
+        "reasons": [
+            "Alan ad\u0131 yerine IP adresi kullan\u0131m\u0131",
+            "URL i\u00e7inde '@' karakteri kullan\u0131m\u0131 (kimlik gizleme \u015f\u00fcphesi)",
+            "\u015e\u00fcpheli anahtar kelimeler: login, secure, update, pay",
+            "Yapay Zeka modeli oltalama belirtileri tespit etti"
+        ]
+    }
+]
